@@ -1,0 +1,13 @@
+google-generativeai
+pymupdf
+pytesseract
+pillow
+pdf2image
+langgraph
+crewai
+fastapi
+uvicorn
+gradio
+pydantic
+python-multipart
+requests
